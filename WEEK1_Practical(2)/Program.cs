@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Worlds!");
+            
+            Task2.task2Code();
         }
     }
 }
