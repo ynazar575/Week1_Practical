@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            
-            Task2.task2Code();
+
+            Task3.task3code();
         }
     }
 }
